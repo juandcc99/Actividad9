@@ -1,0 +1,17 @@
+//Actividad3
+
+//saca un número aleatorio del 1 al 10
+//almacena ese número
+//pide un número hasta que adivines el número almacenado anteriormente
+
+Algoritmo Actividad3
+	Definir num_secreto,num_ingresado como entero
+	num_secreto<-azar(10)
+	Repetir
+		Escribir "Adivina un número del 1 al 10"
+		Leer num_ingresado
+	Hasta Que num_secreto=num_ingresado
+	Si num_secreto=num_ingresado
+		Escribir "acertaste"
+	FinSi
+FinAlgoritmo
