@@ -5,7 +5,7 @@
 //sus dos primeras letras en mayus, y al lado, el número de 
 //letras que tiene cada ciudad.
 
-
+Algoritmo Actividad2
 	Definir ciudades, ciudad como cadena
 	Definir contador, i Como Entero
 	
@@ -25,6 +25,7 @@
         Escribir ciudades[i]
 		Escribir "Letras Mayusculas: ", Mayusculas(Subcadena(ciudades[i],0,1)), "    ", "Longitud Texto: ",longitud(ciudades[i]) 
     FinPara
+    FinAlgoritmo
 	
 	
 
