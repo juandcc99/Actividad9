@@ -1,8 +1,8 @@
-Actividad3
+//Actividad3
 
-saca un número aleatorio del 1 al 10
-almacena ese número
-pide un número hasta que adivines el número almacenado anteriormente
+//saca un número aleatorio del 1 al 10
+//almacena ese número
+//pide un número hasta que adivines el número almacenado anteriormente
 
 Algoritmo Actividad3
 	Definir num_secreto,num_ingresado como entero
